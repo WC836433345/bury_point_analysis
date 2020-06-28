@@ -53,6 +53,7 @@ app.use(flash());
 }) */
 
 
+
 /* 测试会话存储会话信息 */
 /* app.use(function(req, res, next){
   for(var name in req.query){
